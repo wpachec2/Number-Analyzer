@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.deps.json
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.runtimeconfig.json
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.dll
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/bin/Debug/net6.0/NumberAnalyzer.pdb
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.AssemblyInfo.cs
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.dll
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/refint/NumberAnalyzer.dll
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.pdb
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/NumberAnalyzer.genruntimeconfig.cache
+/Users/wilchec/Projects/NumberAnalyzer/NumberAnalyzer/obj/Debug/net6.0/ref/NumberAnalyzer.dll
